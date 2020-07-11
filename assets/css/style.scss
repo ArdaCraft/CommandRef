@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width: 100%;
+  display: flex;
+}
+
+header {
+  position: unset;
+  float: none;
+}
+
+section {
+  width: auto;
+  float: none;
+}

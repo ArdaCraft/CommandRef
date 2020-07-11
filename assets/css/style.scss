@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 100%;
   display: flex;
+  width: 90%;
+  max-width: 1200px;
 }
 
 header {
